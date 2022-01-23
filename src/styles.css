@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+.container-cards{
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    padding: 6rem;
+}
