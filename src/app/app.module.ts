@@ -11,7 +11,7 @@ import { CarouselComponent } from './carousel/carousel.component';
   declarations: [
     AppComponent,
     NavbarComponent,
-    CarouselComponent
+    CarouselComponent,
   ],
   imports: [
     BrowserModule,
