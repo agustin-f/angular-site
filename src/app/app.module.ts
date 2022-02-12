@@ -7,6 +7,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { NavbarComponent } from './navbar/navbar.component';
 import { CarouselComponent } from './carousel/carousel.component';
 import { CardComponent } from './card/card.component';
+import { FullWidthImageComponent } from './full-width-image/full-width-image.component';
 
 @NgModule({
   declarations: [
@@ -14,6 +15,7 @@ import { CardComponent } from './card/card.component';
     NavbarComponent,
     CarouselComponent,
     CardComponent,
+    FullWidthImageComponent,
   ],
   imports: [
     BrowserModule,

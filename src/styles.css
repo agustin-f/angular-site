@@ -1,5 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 
+/* ------- css variables -------- */
+:root {
+    --main-bg-color: white;
+    --text-color-02: black;
+    --text-color-02: white;
+    --font-size-01: 1rem;
+    --font-size-02: 2rem;
+    --font-size-03: 3rem;
+}
+
 .container-cards{
     display: flex;
     flex-flow: row;
