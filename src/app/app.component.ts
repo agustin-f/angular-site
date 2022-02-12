@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-site';
+  btnTravelText = "Mostrar Paquetes de Viajes"
+  show:boolean = false;
 }
