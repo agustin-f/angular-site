@@ -8,6 +8,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { CarouselComponent } from './carousel/carousel.component';
 import { CardComponent } from './card/card.component';
 import { FullWidthImageComponent } from './full-width-image/full-width-image.component';
+import { CardsMorePacksComponent } from './cards-more-packs/cards-more-packs.component';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { FullWidthImageComponent } from './full-width-image/full-width-image.com
     CarouselComponent,
     CardComponent,
     FullWidthImageComponent,
+    CardsMorePacksComponent,
   ],
   imports: [
     BrowserModule,

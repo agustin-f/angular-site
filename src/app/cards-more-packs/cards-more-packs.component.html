@@ -1,0 +1,8 @@
+<div class="card" style="width: 18rem;" *ngFor="let image of images">
+    <img class="card-img-top" [src]="image.src" [alt]="image.altText">
+    <div class="card-body text-center">
+        <h5 class="card-title">{{image.title}}</h5>
+        <p class="card-text">{{image.text}}</p>
+        <a href="#" class="btn w-100 btn-primary">{{image.btnText}}</a>
+    </div>
+</div>
