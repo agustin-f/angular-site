@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-site';
-  btnTravelText = "Mostrar Todos los Paquetes de Viajes"
+  btnTravelText = "Ver más Paquetes de Viajes";
+  btnTravelTextHide = "Ocultar Paquetes de Viajes";
   show:boolean = false;
+  hide:boolean = true;
 }

@@ -15,7 +15,7 @@ export class CardsMorePacksComponent implements OnInit {
   images = 
   [
     {
-       src : '../assets/images/cards/006.jpg',
+       src : '../assets/images/cards-comp/006.jpg',
        altText: 'imagen de paisajes',
        title: 'Cancún',
        text: 'Cancún es una ciudad de México ubicada en la península de Yucatán que limita con el mar Caribe',
@@ -23,7 +23,7 @@ export class CardsMorePacksComponent implements OnInit {
        show: true
     },
     {
-      src : '../assets/images/cards/007.jpg',
+      src : '../assets/images/cards-comp/007.jpg',
       altText: 'imagen de playas',
       title: 'California',
       text: 'Se extiende desde la frontera con México por la costa del Pacífico por cerca de 900 milla',
@@ -31,7 +31,7 @@ export class CardsMorePacksComponent implements OnInit {
       show: true
     },
     {
-      src : '../assets/images/cards/008.jpg',
+      src : '../assets/images/cards-comp/008.jpg',
       altText: 'viajes',
       title: 'Barcelona',
       text: 'Capital de la región de Cataluña en España, es conocida por su arte y arquitectura.',
@@ -39,7 +39,7 @@ export class CardsMorePacksComponent implements OnInit {
       show: true
     },
     {
-     src : '../assets/images/cards/009.jpg',
+     src : '../assets/images/cards-comp/009.jpg',
      altText: 'traveling',
      title: 'El Cairo',
      text: 'Capital de Egipto.En su centro, se encuentra la plaza Tahrir y el vasto Museo Egipcio',
@@ -47,7 +47,7 @@ export class CardsMorePacksComponent implements OnInit {
      show: true
     },
     {
-      src : '../assets/images/cards/010.jpg',
+      src : '../assets/images/cards-comp/010.jpg',
       altText: 'imagen de paisajes',
       title: 'Egipto',
       text: 'País que une el noreste de África con Medio Oriente, data del período de los faraones.',
