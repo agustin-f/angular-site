@@ -9,6 +9,7 @@ import { CarouselComponent } from './carousel/carousel.component';
 import { CardComponent } from './card/card.component';
 import { FullWidthImageComponent } from './full-width-image/full-width-image.component';
 import { CardsMorePacksComponent } from './cards-more-packs/cards-more-packs.component';
+import { BlogComponent } from './blog/blog.component';
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import { CardsMorePacksComponent } from './cards-more-packs/cards-more-packs.com
     CardComponent,
     FullWidthImageComponent,
     CardsMorePacksComponent,
+    BlogComponent,
   ],
   imports: [
     BrowserModule,
