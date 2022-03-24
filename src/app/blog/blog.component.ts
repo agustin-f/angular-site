@@ -39,7 +39,7 @@ export class BlogComponent implements OnInit {
       src : '../assets/images/users/pepe.jpg',
       altText: 'Autor del Blog',
       name: 'José Frapeli',
-      textAbout: 'Lo que más disfruto de mis viajes son los hoteles de lujo y los tragos que sirven en las piscinas, insuperables!.',
+      textAbout: 'Lo que más disfruto de mis viajes son los hoteles de lujo y los tragos que sirven en las piscinas, insuperables!',
       show: true
    },
    {
