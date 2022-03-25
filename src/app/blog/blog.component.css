@@ -1,3 +1,15 @@
 .avatar-width{
     width: 10%;
 }
+
+.mb-8{
+    margin-bottom: 4rem;
+}
+
+.mt-8{
+    margin-top: 4rem;
+}
+
+.blog-padding{
+    padding: 2rem;
+}

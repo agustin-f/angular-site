@@ -1,0 +1,42 @@
+[33m87c4a3e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: commit (merge): merge conflict
+[33mb0b8408[m HEAD@{1}: merge origin/dependabot/npm_and_yarn/follow-redirects-1.14.8: Merge made by the 'ort' strategy.
+[33m060ea45[m HEAD@{2}: merge origin/dependabot/npm_and_yarn/karma-6.3.16: Merge made by the 'ort' strategy.
+[33m66a4064[m HEAD@{3}: commit: bug text
+[33m289eebb[m[33m ([m[1;31morigin/blog[m[33m, [m[1;32mblog[m[33m)[m HEAD@{4}: merge blog: Fast-forward
+[33m9daf3ba[m HEAD@{5}: checkout: moving from blog to master
+[33m289eebb[m[33m ([m[1;31morigin/blog[m[33m, [m[1;32mblog[m[33m)[m HEAD@{6}: commit: add blog json data and images
+[33md9554f6[m HEAD@{7}: commit: add hr tag and styles
+[33mbb2e4d4[m HEAD@{8}: commit: add blog component, and html for this section into the website
+[33m191a666[m[33m ([m[1;31morigin/full-width-image[m[33m, [m[1;32mfull-width-image[m[33m)[m HEAD@{9}: checkout: moving from full-width-image to blog
+[33m191a666[m[33m ([m[1;31morigin/full-width-image[m[33m, [m[1;32mfull-width-image[m[33m)[m HEAD@{10}: commit: comp card images, add condition for change more travel packs button and change some text in a website
+[33m9daf3ba[m HEAD@{11}: checkout: moving from master to full-width-image
+[33m9daf3ba[m HEAD@{12}: merge full-width-image: Fast-forward
+[33me0d40a5[m[33m ([m[1;31morigin/card[m[33m, [m[1;32mcard[m[33m)[m HEAD@{13}: merge card: Fast-forward
+[33mf774b27[m[33m ([m[1;31morigin/navbar[m[33m, [m[1;32mnavbar[m[33m)[m HEAD@{14}: merge navbar: Fast-forward
+[33mfeb849f[m HEAD@{15}: checkout: moving from full-width-image to master
+[33m9daf3ba[m HEAD@{16}: commit: add new cards content
+[33m6f2305a[m HEAD@{17}: commit: move p tag down to the cards and add more first cards showing
+[33md67956f[m HEAD@{18}: commit: add show and hide cards button
+[33m1ff6be4[m HEAD@{19}: checkout: moving from card to full-width-image
+[33me0d40a5[m[33m ([m[1;31morigin/card[m[33m, [m[1;32mcard[m[33m)[m HEAD@{20}: checkout: moving from full-width-image to card
+[33m1ff6be4[m HEAD@{21}: commit: clear code and add title text
+[33m3acbc8d[m HEAD@{22}: commit: add p and h4 tags in a center of website
+[33m3c48647[m HEAD@{23}: checkout: moving from card to full-width-image
+[33me0d40a5[m[33m ([m[1;31morigin/card[m[33m, [m[1;32mcard[m[33m)[m HEAD@{24}: checkout: moving from master to card
+[33mfeb849f[m HEAD@{25}: checkout: moving from full-width-image to master
+[33m3c48647[m HEAD@{26}: commit: add full width image and css text/color variables to the website
+[33me0d40a5[m[33m ([m[1;31morigin/card[m[33m, [m[1;32mcard[m[33m)[m HEAD@{27}: checkout: moving from card to full-width-image
+[33me0d40a5[m[33m ([m[1;31morigin/card[m[33m, [m[1;32mcard[m[33m)[m HEAD@{28}: commit: add card images ngfor loop, assets & twdb tag component
+[33mddd6195[m HEAD@{29}: commit: add card images and css for center columns components
+[33m37a3ef1[m HEAD@{30}: commit: add card component
+[33mc18c940[m[33m ([m[1;31morigin/carousel[m[33m, [m[1;32mcarousel[m[33m)[m HEAD@{31}: checkout: moving from carousel to card
+[33mc18c940[m[33m ([m[1;31morigin/carousel[m[33m, [m[1;32mcarousel[m[33m)[m HEAD@{32}: commit: some changes
+[33ma34e10b[m HEAD@{33}: commit: add title and p tag on carousel component
+[33mfd1d505[m HEAD@{34}: checkout: moving from master to carousel
+[33mfeb849f[m HEAD@{35}: checkout: moving from carousel to master
+[33mfd1d505[m HEAD@{36}: commit: add carousel html, css and images
+[33mf774b27[m[33m ([m[1;31morigin/navbar[m[33m, [m[1;32mnavbar[m[33m)[m HEAD@{37}: checkout: moving from navbar to carousel
+[33mf774b27[m[33m ([m[1;31morigin/navbar[m[33m, [m[1;32mnavbar[m[33m)[m HEAD@{38}: commit: add navbar component and fluid general container
+[33mfeb849f[m HEAD@{39}: checkout: moving from master to navbar
+[33mfeb849f[m HEAD@{40}: commit: my first angular app commit
+[33m25a0da6[m HEAD@{41}: commit (initial): initial commit
