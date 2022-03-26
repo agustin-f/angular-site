@@ -16,7 +16,7 @@ export class CardComponent implements OnInit {
   images = 
   [
     {
-       src : '../assets/images/cards-comp/001.jpg',
+       src : 'https://i.postimg.cc/tgfBM9Yr/001.jpg',
        altText: 'imagen de paisajes',
        title: 'Playa del Carmen',
        text: 'Playa del Carmen es una ciudad mexicana, cabecera del municipio de Solidaridad, Quintana Roo.',
@@ -24,7 +24,7 @@ export class CardComponent implements OnInit {
        show: true
     },
     {
-      src : '../assets/images/cards-comp/002.jpg',
+      src : 'https://i.postimg.cc/yxTXsK8C/002.jpg',
       altText: 'imagen de playas',
       title: 'Bahamas',
       text: 'Uno de los trece países que forman la América Insular o Islas del Caribe.',
@@ -32,7 +32,7 @@ export class CardComponent implements OnInit {
       show: true
     },
     {
-      src : '../assets/images/cards-comp/003.jpg',
+      src : 'https://i.postimg.cc/rpt1zxwJ/003.jpg',
       altText: 'viajes',
       title: 'Venecia',
       text: 'Patrimonio de la Humanidad por la Unesco, situado en un conjunto de islas en la laguna de Venecia',
@@ -40,7 +40,7 @@ export class CardComponent implements OnInit {
       show: true
     },
     {
-     src : '../assets/images/cards-comp/004.jpg',
+     src : 'https://i.postimg.cc/gj4R1KgY/004.jpg',
      altText: 'traveling',
      title: 'Perú',
      text: 'Perú (en quechua y en aimara: Piruw), país ubicado al oeste de América del Sur.',
@@ -48,7 +48,7 @@ export class CardComponent implements OnInit {
      show: true
     },
     {
-      src : '../assets/images/cards-comp/005.jpg',
+      src : 'https://i.postimg.cc/9MYqqp5G/005.jpg',
       altText: 'imagen de paisajes',
       title: 'Patagonia',
       text: 'La Patagonia es una región geográfica en el extremo sur del Cono Sur de América.',
