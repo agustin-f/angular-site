@@ -32,7 +32,7 @@ export class BlogComponent implements OnInit {
       src : 'https://i.postimg.cc/GtJwR4D3/maria.jpg',
       altText: 'Autora del Blog',
       name: 'Mónica E Petroleoati',
-      textAbout: 'Me gusta conocer lugares nuevos cada año, me renueva las energías y perdí el miedo a volar!',
+      textAbout: 'Me gusta conocer nuevos lugares cada año, me renueva las energías y perdí el miedo a volar!',
       show: true
    },
   {
