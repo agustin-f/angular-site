@@ -10,6 +10,7 @@ import { CardComponent } from './card/card.component';
 import { FullWidthImageComponent } from './full-width-image/full-width-image.component';
 import { CardsMorePacksComponent } from './cards-more-packs/cards-more-packs.component';
 import { BlogComponent } from './blog/blog.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { BlogComponent } from './blog/blog.component';
     FullWidthImageComponent,
     CardsMorePacksComponent,
     BlogComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
