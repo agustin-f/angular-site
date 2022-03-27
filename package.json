@@ -5,7 +5,6 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "deploy": "angular-site build --prefix-paths && gh-pages -d dist",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
