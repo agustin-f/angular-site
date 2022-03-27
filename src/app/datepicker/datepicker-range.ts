@@ -1,5 +1,7 @@
-import {Component} from '@angular/core';
-import {NgbDate, NgbCalendar} from '@ng-bootstrap/ng-bootstrap';
+
+import { Component } from '@angular/core';
+import { NgbDate, NgbCalendar } from '@ng-bootstrap/ng-bootstrap';
+
 
 @Component({
   selector: 'ngbd-datepicker-range',

@@ -11,7 +11,7 @@ import { FullWidthImageComponent } from './full-width-image/full-width-image.com
 import { CardsMorePacksComponent } from './cards-more-packs/cards-more-packs.component';
 import { BlogComponent } from './blog/blog.component';
 import { FooterComponent } from './footer/footer.component';
-import { NgbdDatepickerRange } from './datepicker/datepicker-range';
+import { NgbdDatepickerRange } from "./datepicker/datepicker-range";
 
 @NgModule({
   declarations: [

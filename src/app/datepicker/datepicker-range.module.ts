@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
-import { NgbdDatepickerRange } from './datepicker-range';
+import { NgbdDatepickerRange } from "./NgbdDatepickerRange";
 
 @NgModule({
   imports: [BrowserModule, NgbModule],
