@@ -12,6 +12,7 @@ import { CardsMorePacksComponent } from './cards-more-packs/cards-more-packs.com
 import { BlogComponent } from './blog/blog.component';
 import { FooterComponent } from './footer/footer.component';
 import { NgbdDatepickerRange } from "./datepicker/datepicker-range";
+import { PaginaBlogComponent } from './pagina-blog/pagina-blog.component';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { NgbdDatepickerRange } from "./datepicker/datepicker-range";
     BlogComponent,
     FooterComponent,
     NgbdDatepickerRange,
+    PaginaBlogComponent,
   ],
   imports: [
     BrowserModule,
