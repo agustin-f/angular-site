@@ -1,45 +1,45 @@
+<h1 class="h4-padding col-12 d-flex flex-column justify-content-center align-items-center w-100 mb-5 mt-5">El Blog del viajero</h1>
+
 
 <!--Section: Author Box-->
 <section class="my-5 col-12 mb-4 w-100 blog-padding">
 
-    <!-- Card header -->
-    <div class="card-header border-0 font-weight-bold d-flex justify-content-between">
-      <p class="mr-4 mb-0">Comentarios del Blog</p>
-    </div>
+  <!-- Card header -->
+  <div class="card-header border-0 font-weight-bold d-flex justify-content-between">
+    <p class="mr-4 mb-0">Comentarios del Blog</p>
+  </div>
 
-    <div class="card-header border-0 font-weight-bold d-flex justify-content-between">
-        <p class="mr-4 mb-0">Comentarios del Blog</p>
-      </div>
-  
-    <div class="media mt-8 mb-8 px-1" *ngFor="let image of images">
-      <img class="card-img-100 rounded-circle d-flex z-depth-1 mr-3 avatar-width" [src]="image.src" [alt]="image.altText">
-      <div class="media-body">
-        <h5 class="font-weight-bold mt-0">
-          <a class="text-default" href="">{{image.name}}</a>
-        </h5>
-        <ul class="list-unstyled list-inline mb-2 pt-1">
-          <li class="list-inline-item">
-            <a class="grey-text mr-1"><i class="fab fa-lg fa-facebook"> </i></a>
-          </li>
-          <li class="list-inline-item">
-            <a class="grey-text mr-1"><i class="fab fa-lg fa-twitter"> </i></a>
-          </li>
-          <li class="list-inline-item">
-            <a class="grey-text mr-1"><i class="fab fa-lg fa-google-plus"> </i></a>
-          </li>
-          <li class="list-inline-item">
-            <a class="grey-text mr-1"><i class="fab fa-lg fa-linkedin"> </i></a>
-          </li>
-          <li class="list-inline-item">
-            <a class="grey-text mr-1"><i class="fab fa-lg fa-instagram"> </i></a>
-          </li>
-        </ul>
-        {{image.textAbout}}
-      </div>
+  <div class="media mt-8 mb-8 px-1" *ngFor="let image of images">
+    <img class="card-img-100 rounded-circle d-flex z-depth-1 mr-3 avatar-width" [src]="image.src" [alt]="image.altText">
+    <div class="media-body">
+      <h5 class="font-weight-bold mt-0">
+        <a class="text-default" href="">{{image.name}}</a>
+      </h5>
+      <ul class="list-unstyled list-inline mb-2 pt-1">
+        <li class="list-inline-item">
+          <a class="grey-text mr-1"><i class="fab fa-lg fa-facebook"> </i></a>
+        </li>
+        <li class="list-inline-item">
+          <a class="grey-text mr-1"><i class="fab fa-lg fa-twitter"> </i></a>
+        </li>
+        <li class="list-inline-item">
+          <a class="grey-text mr-1"><i class="fab fa-lg fa-google-plus"> </i></a>
+        </li>
+        <li class="list-inline-item">
+          <a class="grey-text mr-1"><i class="fab fa-lg fa-linkedin"> </i></a>
+        </li>
+        <li class="list-inline-item">
+          <a class="grey-text mr-1"><i class="fab fa-lg fa-instagram"> </i></a>
+        </li>
+      </ul>
+      {{image.textAbout}}
     </div>
-  
+  </div>
+
 </section>
 <!--Section: Author Box-->
+
+
 
 
 

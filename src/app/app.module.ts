@@ -13,6 +13,7 @@ import { BlogComponent } from './blog/blog.component';
 import { FooterComponent } from './footer/footer.component';
 import { NgbdDatepickerRange } from "./datepicker/datepicker-range";
 import { PaginaBlogComponent } from './pagina-blog/pagina-blog.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { PaginaBlogComponent } from './pagina-blog/pagina-blog.component';
     FooterComponent,
     NgbdDatepickerRange,
     PaginaBlogComponent,
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
